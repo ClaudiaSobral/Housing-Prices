@@ -1,4 +1,4 @@
-# 🏡 Housing Price Prediction with Linear Regression
+# 🏡 Housing Prices Prediction with Linear Regression
 
 This project focuses on predicting real estate prices using linear regression. Through a structured pipeline — from exploratory data analysis to model evaluation — I aimed to identify key features influencing housing prices and build a simple yet insightful predictive model.
 
@@ -40,7 +40,7 @@ This notebook includes the following steps:
    - Exploring other regression models (Ridge, Lasso, or Tree-based methods)
 
 ## 📂 Project structure
-housing/<br>
+Housing-Prices/<br>
 │<br>
 ├── data/<br>
 │   └── Housing.csv               # raw data<br>
